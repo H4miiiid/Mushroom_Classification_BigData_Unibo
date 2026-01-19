@@ -28,7 +28,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 jupyter notebook
 Open a notebook from the Notebooks/ folder and run all cells.
 
-Option 2: Run on Google Colab
+### Option 2: Run on Google Colab
 
 Upload the repository (or the Notebooks/ and Dataset/ folders) to Colab and run the notebooks.
 Make sure the dataset remains at: Dataset/secondary_data.csv.

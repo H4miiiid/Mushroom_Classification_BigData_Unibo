@@ -8,8 +8,8 @@ Mushroom_Classification_BigData_Unibo/
 ├── Dataset/
 │   └── secondary_data.csv
 └── Notebooks/
-    ├── Big_Data_CourseProject_Mushroom_Classification.ipynb
-    └── Big_Data_ProjectWork_Mushroom_Classification.ipynb
+    ├── Big_Data_CourseProject_Mushroom_Classification_PySpark.ipynb
+    └── Big_Data_ProjectWork_Mushroom_Classification_PySpark.ipynb
 
 ```
 

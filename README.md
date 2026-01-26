@@ -1,6 +1,6 @@
 # Mushroom Classification — Big Data (UNIBO)
 
-This repository contains my Big Data course project for classifying mushrooms (edible vs. poisonous) using the **Secondary Mushroom Dataset**. The notebooks are implemented using **PySpark / Spark ML (MLlib)** and include data preprocessing, exploratory analysis, model training, (optional) hyperparameter tuning, and evaluation.
+This repository contains my Big Data course project for classifying mushrooms (edible vs. poisonous) using the **Secondary Mushroom Dataset**. The notebooks are implemented using **PySpark / Spark ML (MLlib)** and include data preprocessing, exploratory analysis, model training, hyperparameter tuning, and evaluation.
 
 ## Repository Structure
 ```text

@@ -18,10 +18,10 @@ Mushroom_Classification_BigData_Unibo/
 - CSV delimiter: `;`
 
 ## Notebooks
-- `Notebooks/Big_Data_CourseProject_Mushroom_Classification.ipynb`  
+- `Notebooks/Big_Data_CourseProject_Mushroom_Classification_PySpark.ipynb`  
     Spark ML workflow with tree-based models (Decision Tree, Random Forest, Gradient-Boosted Trees).
 
-- `Notebooks/Big_Data_ProjectWork_Mushroom_Classification.ipynb`  
+- `Notebooks/Big_Data_ProjectWork_Mushroom_Classification_PySpark.ipynb`  
   Spark ML workflow with linear/probabilistic models (Binomial Logistic Regression, Linear SVM, Naive Bayes).
 
 ## How to Run
